@@ -1,5 +1,5 @@
 {
-    "name": "codexshaper/wp-php-sdk",
+    "name": "codexshaper/wp-rest-api",
     "description": "Wordpress Rest API for PHP",
     "keywords": [
         "wordpress",
